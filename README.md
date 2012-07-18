@@ -1,4 +1,4 @@
-PhoneGap-Start
+Allergy
 ---
 
 A starting point for PhoneGap apps.
